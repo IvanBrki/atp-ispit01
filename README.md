@@ -83,4 +83,13 @@ Izvori:
 
 > Ovo je neki citat
 
+---
+
+[LICENSE.md](LICENSE.md)
+
+[CHANGELOG.md](CHANGELOG.md)
+
+
+
+
 
