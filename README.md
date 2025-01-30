@@ -96,16 +96,16 @@ Izvori:
 - [x] Dodati primjer koda s Gists
 - [x] Dodati link na izvore slike i teksta
 - [x] Linkati README.md i LICENSE.md
-- [] Napraviti popis (numerički i ne-numerički)
-- [] Izraditi tablicu s informacijama o projektu
+- [ ] Napraviti popis (numerički i ne-numerički)
+- [ ] Izraditi tablicu s informacijama o projektu
 - [x] Dodati citat koristeći Markdown
-- [] Dodati emoji oznake
-- [] Ugraditi YouTube video
-- [] Napraviti commit promjena s jasnom porukom
-- [] Kreirati novu granu i dodati commit
-- [] Otvoriti pull request i spojiti promjene
-- []x Kreirati LICENSE.md datoteku s MIT licencom
-- [] Kreirati CHANGELOG.md i dodati "Verzija 1.0"
+- [ ] Dodati emoji oznake
+- [ ] Ugraditi YouTube video
+- [ ] Napraviti commit promjena s jasnom porukom
+- [ ] Kreirati novu granu i dodati commit
+- [ ] Otvoriti pull request i spojiti promjene
+- [x] Kreirati LICENSE.md datoteku s MIT licencom
+- [ ] Kreirati CHANGELOG.md i dodati "Verzija 1.0"
 - [x] Aktivirati GitHub Pages za repozitorij
 
 
